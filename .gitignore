@@ -1,0 +1,29 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos do PyQt
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arquivos do TensorFlow e Machine Learning
+checkpoint/
+__pycache__/
+*.h5
+*.tflite
+*.pb
+*.pkl
+*.ckpt
+logs/
